@@ -1,0 +1,8 @@
+# Local Wi-Fi credentials
+**/secrets.h
+
+# PlatformIO build output
+.pio/
+
+# macOS files
+.DS_Store
