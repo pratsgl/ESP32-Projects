@@ -20,7 +20,7 @@ operational capability shown in concept artwork should be treated as a
 design concept until implemented and validated.
 
 ![Project ORBIT detailed system
-architecture](docs/ORBIT_Architecture.jpg)
+architecture](docs/ORBIT_Architecture_Detailed.jpg)
 
 ## Mission Objectives
 
